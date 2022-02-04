@@ -1,5 +1,5 @@
 # Modal component based on React Webpack Typescript Starter
 
-## core feature
+## Core feature
 
-**can present multiple modal at the same time.**
+**Present multiple modal at the same time.**
