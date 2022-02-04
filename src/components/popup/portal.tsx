@@ -1,4 +1,5 @@
 import React, { ReactElement } from "react";
+import ReactDOM from "react-dom";
 
 export const GeneralOverlay = (props: { children: ReactElement }) => {
   return <div className="fixOverlay">{props.children}</div>;
