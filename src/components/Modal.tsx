@@ -5,7 +5,7 @@ import "../assets/scss/content.scss";
 
 const closeIcon = require("../assets/img/close.svg");
 
-const CloseBlock = (props) => {
+const CloseBlock = (props: { handleClickClose?: () => void }) => {
   const { handleClickClose } = props;
 
   const onClickClose = () => {
