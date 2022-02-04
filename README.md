@@ -2,6 +2,6 @@
 
 ## Core feature
 
-**Present multiple modal at the same time.**
-**Add modal dynamically.**
-**Only modal content needed, easy to adapt**
+- **Present multiple modal at the same time.**
+- **Add modal dynamically.**
+- **Only modal content needed, easy to adapt**
